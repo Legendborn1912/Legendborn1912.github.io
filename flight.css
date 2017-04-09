@@ -1,0 +1,134 @@
+html, body {
+	padding: 0;
+	margin: 0;
+	background-color: #333;
+}
+
+.nav li {
+	display: inline;
+	margin: 0px;
+}
+
+.container {
+	background-color: #333;
+	padding: 13px;
+	margin: 0px;
+}
+
+.jumbotron {
+	background: url("https://static1.squarespace.com/static/5881b53cbf629aeb03f0b206/5882873420099e6eadd29379/5882874bcd0f68bb3f078fa4/1484949695050/?format=1500w");
+	background-size: cover;
+	height: 455px;
+	background-position: 0% 55.3%;
+	overflow: auto;
+}
+
+.main {
+	position: relative;
+	bottom: 19px;
+	text-align: center;
+	padding-left: 160px;
+}
+
+h1 {
+	font-family: 'indie flower', 'Raleway', sans-serif;
+	font-size: 100px;
+	font-style: italic;
+	text-transform: uppercase;
+	color: #fff;
+	overflow: hidden;
+}
+
+.listlink {
+	text-decoration: none;
+	color: #fff;
+	list-style-type: none;
+	padding: 0 30px;
+	color: #fff;
+	text-transform: uppercase;
+	font-family: 'Raleway', sans-serif;
+	font-size: 20px;
+	font-weight: 600;
+	font-style: italic;
+}
+
+.listlink:hover {
+	font-style: normal;
+	color: #cf1020;
+}
+
+.listlink:active {
+	font-style: normal;
+	color: #cf1020;
+}
+
+.hotel {
+	border: 2px solid black;
+	margin: 70px 180px;
+	padding: 10px 0 0 0;
+}
+
+.hotel-img {
+	object-fit: cover;
+	margin-left: 80px;
+}
+
+.hotel-des {
+	font-family: 'Raleway', sans-serif;
+	display: inline-block;
+	text-align: center;
+	vertical-align: top;
+}
+
+ul {
+	padding: 0px;
+	margin: 10px 0px;
+}
+
+li {
+	list-style: none;
+	margin: 0px;
+}
+
+h2 {
+	color: #fff;
+	text-align: left;
+	margin: 70px 0 0 0;
+}
+
+h3 {
+	color: #D7263D;
+	text-align: left;
+	margin: 0;
+	font-size: 30px;
+}
+
+p {
+	color: rgba(255, 255, 255, 0.7);
+	text-align: left;
+	margin: 0;
+	word-spacing: 2px;
+}
+
+.book {
+	color: #fff;
+	background-color: #D7263D;
+	display: block;
+	width: 100%;
+	text-align: center;
+	text-decoration: none;
+	padding: 20px 0;
+	text-transform: uppercase;
+	font-family: 'Raleway', sans-serif;
+}
+
+.book:hover {
+	background-color: #e65b6d;
+}
+
+/*
+*
+{
+	border: 2px solid green;
+}
+*/
